@@ -1,5 +1,5 @@
 # 💫 About Me:
-### About Me:<br>- 🔭 I’m currently working on **project and exploring new tech stacks**<br>- 👯 I’m looking to collaborate on **Open-source projects and Web Development**<br>- 🤝 I’m looking for help with **Machine Learning models and Backend optimization**<br>- 🌱 I’m currently learning **Python, AI Integration, and Cloud Deployment And Others**<br>- 💬 Ask me about **Tech, AI, or anything about coding!**<br>- ⚡ Fun fact **My name ends with .exe, but I don't run on Windows. Just on pure curiosity and coffee☕💻**
+<br>- 🔭 I’m currently working on **project and exploring new tech stacks**<br>- 👯 I’m looking to collaborate on **Open-source projects and Web Development**<br>- 🤝 I’m looking for help with **Machine Learning models and Backend optimization**<br>- 🌱 I’m currently learning **Python, AI Integration, and Cloud Deployment And Others**<br>- 💬 Ask me about **Tech, AI, or anything about coding!**<br>- ⚡ Fun fact **My name ends with .exe, but I don't run on Windows. Just on pure curiosity and coffee☕💻**
 
 
 ## 🌐 Socials:
